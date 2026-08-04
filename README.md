@@ -13,4 +13,4 @@ I am an Undergraduate Researcher at the **Institute of Theoretical and Computati
 * **Simulation & HPC:** OpenFOAM, LAMMPS, Raylib, MPI/OpenMP.
 * **Tools:** Git, VESTA, OVITO.
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/georgios-kritopoulos) | [Email](mailto:kritopgr@gmail.com)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/georgioskritopoulos) | [Email](mailto:kritopgr@gmail.com)
