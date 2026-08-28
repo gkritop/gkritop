@@ -5,11 +5,11 @@ I have graduated from the **Physics Department** at the **University of Crete**.
 #### Current Research
 I am an Undergraduate Researcher at the **Institute of Theoretical and Computational Physics**, focusing on:
 * **Quantum Machine Learning:** Coupling classical ML with quantum mechanics to analyze ECG signals.
-* **Upcoming Publication:** [Preprint](https://www.medrxiv.org/content/10.64898/2026.04.09.26350502v1) Technical paper on generative models for arrhythmia classification.
+* **Publication:** [Article](https://www.mdpi.com/3042-6707/1/3/23) Technical paper on generative models for arrhythmia classification.
 
 #### Tech Stack & Skills
 * **Languages:** C++, C, Python.
-* **Machine Learning:** PyTorch, TensorFlow, PennyLane.
+* **Machine Learning:** PyTorch, TensorFlow, PennyLane, Qiskit.
 * **Simulation & HPC:** OpenFOAM, LAMMPS, Raylib, MPI/OpenMP.
 * **Tools:** Git, VESTA, OVITO.
 
